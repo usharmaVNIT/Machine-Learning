@@ -1,0 +1,21 @@
+MACHINE LEARNING ASSIGNMENT OF BT18CSE021 UJJWAL SHARMA
+Classification Problem - Predict whether a mammogram mass is benign or malignant
+
+DataSet Taken - https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass
+
+FOLDER DESCRIPTION
+
+1 . ML APIs
+	in this folder I have used api provided by sklearn and keras to solve the problem
+2 . ML Algorithms Self Implemented
+	in this folder I have implemented 2 machine learning algorithms namely (ML_Assignment_ANN.ipynb and ML_Assignment_ID3.ipynb) . For DT(implemented) I have used separate dataset included in the folder (play tennis) and can be accessed from https://www.kaggle.com/fredericobreno/play-tennis
+
+3. PDFs
+	in this folder I have pdf versions of ppt and report if the do not open in other computer
+
+Use Python 3
+
+Basically we have implemented 3 ml Algorithms and compared total 6 ml models and explored some additional topics like PCA and Ensemble learning
+
+
+BT18CSE021 - UJJWAL SHARMA
